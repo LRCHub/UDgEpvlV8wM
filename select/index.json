@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "MADO（feat. Memento Mori、GrAn UrΣ、武蔵）",
+  "base_artist": "O.A.KLAY",
+  "createdAt": "2026-02-27T07:25:57.889770Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MADO (feat. Memento Mori, GrAn UrΣ & 武蔵)",
+      "artist": "O.A.KLAY",
+      "has_synced": false,
+      "path": "select/pl_01_MADO_(feat._Memento_Mori,_GrAn_UrΣ_&_武蔵)_O.A.KLAY.txt"
+    }
+  ]
+}
